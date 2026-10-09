@@ -23,3 +23,4 @@ This project analyzes employee data to understand workforce distribution, employ
 To transform employee data into meaningful insights that support data-driven HR decisions, employee retention, and workforce plannin
 ![image alt](https://github.com/Goyal-Sahiba/Hr_dashboard/blob/main/Screenshot%202026-10-09%20144328.png?raw=true)
 ![image alt](https://github.com/Goyal-Sahiba/Hr_dashboard/blob/main/Screenshot%202026-10-09%20144701.png?raw=true)
+![image alt](https://github.com/Goyal-Sahiba/Hr_dashboard/blob/main/Screenshot%202026-10-09%20144824.png?raw=true)
